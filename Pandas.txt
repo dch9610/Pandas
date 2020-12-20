@@ -1,4 +1,0 @@
-Pandas 개념
-
-Searies (1차원 데이터)
-DataFrame (2차원이상 데이터)
